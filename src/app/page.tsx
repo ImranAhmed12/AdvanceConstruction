@@ -364,11 +364,11 @@ export default function Home() {
             <div className="md:w-1/2 md:flex md:flex-col   children:flex children:flex-col children:justify-end children:text-[#fff]">
               <div className="service-common projectimg-2 h-[370px] md:w-[100%] md:h-1/2 md:p-5 p-[25px]">
                 <h1 className="text-[24px] font-bold leading-[29px] text-white lg:font-thin">
-                  Qazi Lawns
+                  Farm House
                 </h1>
-                <p className="text-[#CECECE] text-[14px] mt-2 lg:text-[16px]">
+                {/* <p className="text-[#CECECE] text-[14px] mt-2 lg:text-[16px]">
                   Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-                </p>
+                </p> */}
 
                 <div className="flex space-x-4 children:text-[9px] mt-6 children:border children:border-[#CECECE]  children:py-1 children:px-2 text-[#CECECE]">
                   <p className="lg:text-[13px]">3d Modelling</p>
@@ -381,10 +381,10 @@ export default function Home() {
                 <h1 className="text-[24px] text-white font-bold leading-[29px] lg:font-thin ">
                   Multani Manzil
                 </h1>
-                <p className="text-[#CECECE] text-[14px] mt-2 lg:text-[16px]">
+                {/* <p className="text-[#CECECE] text-[14px] mt-2 lg:text-[16px]">
                   Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                   Aperiam, debitis!
-                </p>
+                </p> */}
 
                 <div className="flex space-x-4 children:text-[9px] mt-6 children:border children:border-[#CECECE]  children:py-1 children:px-2 text-[#CECECE]">
                   <p className="lg:text-[13px]">3d Modelling</p>
@@ -438,15 +438,19 @@ export default function Home() {
                     ></Image>
                   </div>
                   <div className="p-[10px] md:px-9">
-                    <p className=" mt-4 text-justify text-[#6F6F6F] text-[14px]">
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                      Aliquid amet nihil rem nemo, ab odio? Autem voluptas
-                      distinctio incidunt totam architecto, inventore, qui
-                      eveniet doloremque impedit quasi consectetur?
+                    <p className=" mt-4 text-justify text-[#6F6F6F]">
+                      Advance Construction has delivered wonderful work for my
+                      house and at a personal level. His skills are excellent
+                      but more importantly his professionalism, initiative and
+                      commitment is par excellence.They are also multi talented
+                      individual and brings a lot of the experience in there
+                      tasks. I would highly recommend them for any needs and
+                      would continue to seek their services in the future as
+                      well.
                     </p>
-                    <h1 className="text-justify mt-6">Imran Ahmed</h1>
+                    <h1 className="text-justify mt-6">Monish Shamsi</h1>
                     <p className="text-[16px] leading-[19px] text-[#AB825D] italic text-justify">
-                      Software Developer
+                      Owner of Hamrard Dawa khana
                     </p>
                   </div>
                 </div>
@@ -465,14 +469,17 @@ export default function Home() {
                   </div>
                   <div className="p-[10px] md:px-9">
                     <p className=" mt-4 text-justify text-[#6F6F6F]">
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                      Aliquid amet nihil rem nemo, ab odio? Autem voluptas
-                      distinctio incidunt totam architecto, inventore, qui
-                      eveniet doloremque impedit quasi consectetur?
+                      We are pleased to share that it was a great experience
+                      working with Advance Construction for building and
+                      designing our much ambitious farm House. They are
+                      professional as they works with complete ownership, drives
+                      the project passionately till the delivery within project
+                      timeline and provides invaluable consultancy. We Thank him
+                      and wish them a Great Success!!
                     </p>
-                    <h1 className="text-justify mt-6">Imran Ahmed</h1>
+                    <h1 className="text-justify mt-6">Ayesha Multani</h1>
                     <p className="text-[16px] leading-[19px] text-[#AB825D] italic text-justify">
-                      Software Developer
+                      Professor AMU
                     </p>
                   </div>
                 </div>
@@ -490,14 +497,18 @@ export default function Home() {
                   </div>
                   <div className="p-[10px] md:px-9">
                     <p className=" mt-4 text-justify text-[#6F6F6F]">
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                      Aliquid amet nihil rem nemo, ab odio? Autem voluptas
-                      distinctio incidunt totam architecto, inventore, qui
-                      eveniet doloremque impedit quasi consectetur?
+                      When we got in touch with Advance Construction, They
+                      understood our need and agreed to work in the manner we
+                      wanted. Working with them was such a delight. They
+                      listened to us carefully and delivered exactly what we
+                      wanted. Even now that the work is over, They provides us
+                      with all the support whenever we need it. We highly
+                      recommend them! They are the best designer we had the
+                      pleasure of working with.
                     </p>
-                    <h1 className="text-justify mt-6">Imran Ahmed</h1>
+                    <h1 className="text-justify mt-6">Haris Furkan</h1>
                     <p className="text-[16px] leading-[19px] text-[#AB825D] italic text-justify">
-                      Software Developer
+                      Pilot - Emirates Dubai
                     </p>
                   </div>
                 </div>
@@ -528,7 +539,7 @@ export default function Home() {
               </div>
               <div className="space-x-2">
                 <Image src={emailIcon} alt="contactimg " />
-                <p className="pl-[4px]">Imranahmed795@gmail.com</p>
+                <p className="pl-[4px]">amirazam985@gmail.com</p>
               </div>
               <div className="space-x-2">
                 <Image src={locationIcon} alt="contactimg" />
@@ -595,7 +606,7 @@ export default function Home() {
               © Copyright 2023 Advance Construction Design
             </p>
             <p className="text-[16px] opacity-60 font-bold">
-              Crafted by
+              Loved & Crafted Crafted by
               <a href="https://www.softnimble.com" target="_blank">
                 &nbsp; Soft<span className="text-[#06223f]">Nimble</span>
               </a>
