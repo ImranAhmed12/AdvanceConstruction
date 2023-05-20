@@ -31,7 +31,7 @@ export default function Home() {
           <div className="hidden lg:block  lg:pl-[60px] pt-3 ">
             <Image
               src={desktopLogo}
-              alt="Advanced Construction Design Logo"
+              alt="Advance Construction Design Logo"
               className="w-[50px]"
             />
           </div>
@@ -39,7 +39,7 @@ export default function Home() {
           <header className="lg:w-1/2 lg:justify-end lg:pr-4 lg:py-4  transition-all ease-in-out px-2 lg:px-0">
             <div className="flex justify-between items-center lg:items-end lg:justify-end ">
               <div className="lg:hidden">
-                <Image src={logo} alt="Advanced Construction Design Logo" />
+                <Image src={logo} alt="Advance Construction Design Logo" />
               </div>
 
               <div className="py-4 px-2 lg:py-0 lg:px-0 lg:hidden">
@@ -84,7 +84,7 @@ export default function Home() {
             The home of your dreams, built to last a lifetime
           </h1>
           <p className="text-[14px] sm:text-[16px] mb-8 px-[12px] lg:px-0 lg:text-[18px] lg:text-[#6F6F6F]">
-            Welcome to Advanced Construction , your trusted partner for all your
+            Welcome to Advance Construction , your trusted partner for all your
             construction needs. With years of experience in the industry, we
             take pride in delivering high-quality construction solutions to our
             clients.
@@ -172,7 +172,7 @@ export default function Home() {
             <h1 className="section-heading lg:text-center text-center text-[36px] pt-[25px] font-medium ">
               Services we offer
             </h1>
-            <p className="text-[16px] leading-[30px] mb-9 text-[#6F6F6F] lg:text-[18px] text-center lg:w-[600px] mx-auto">
+            <p className="text-[16px] leading-[30px] mb-9 text-[#6F6F6F] lg:text-[18px] lg:w-[600px] lg:mx-auto">
               Overseeing and managing construction projects from start to
               finish, including coordinating, sourcing materials, and ensuring
               compliance with regulations.
@@ -194,7 +194,7 @@ export default function Home() {
             </div>
 
             <div className="service-common serviceimg-2">
-              <h1 className="text-[24px] font-thin leading-[29px] text-white">
+              <h1 className="text-[24px] font-semibold lg:font-thin leading-[29px] text-white">
                 Construction
               </h1>
               <p className="text-[#CECECE] text-[14px] mt-2 lg:text-[16px]">
@@ -208,7 +208,7 @@ export default function Home() {
             </div>
 
             <div className="service-common serviceimg-3">
-              <h1 className="text-[24px] text-white font-thin leading-[29px]">
+              <h1 className="text-[24px] text-white font-semibold lg:font-thin leading-[29px]">
                 Renovation & Remodeling
               </h1>
               <p className="text-[#CECECE] text-[14px] mt-2 lg:text-[16px]">
@@ -338,7 +338,7 @@ export default function Home() {
           <div className="text-center ">
             <h1 className=" section-heading font-medium ">Our Projects</h1>
             <p className="text-[16px] leading-[30px] mb-9 text-start lg:text-[18px] text-[#6F6F6F]">
-              At Advanced Construction Design, we take pride in our diverse
+              At Advance Construction Design, we take pride in our diverse
               portfolio of successful construction projects. Our team of skilled
               professionals has delivered exceptional results across various
               sectors, from residential and commercial to industrial and
@@ -407,9 +407,9 @@ export default function Home() {
 
       {/* TESTIMONIAL SECTION */}
 
-      <section className="bg-[#FFF8F2] py-5 w-[100%]" id="testimonial">
+      <section className="bg-[#FFF8F2] py-5 w-[97%]" id="testimonial">
         <div className="container">
-          <div className="w-[100%] mx-auto ml-3">
+          <div className="w-[97%] mx-auto ml-3">
             <h1 className="leading-[44px] text-[36px] font-semibold text-justify lg:font-medium section-heading">
               Testimonial
             </h1>
@@ -592,10 +592,13 @@ export default function Home() {
           </div>
           <div>
             <p className="leading-[27px] w-[200px] mx-auto mb-4  lg:text-[16px] lg:mt-8 lg:w-[100%] lg:mx-auto opacity-60 ">
-              © Copyright 2023 Advanced Construction Design
+              © Copyright 2023 Advance Construction Design
             </p>
             <p className="text-[16px] opacity-60 font-bold">
-              Crafted by Soft<span className="text-[#06223f]">Nimble</span>
+              Crafted by
+              <a href="https://www.softnimble.com" target="_blank">
+                &nbsp; Soft<span className="text-[#06223f]">Nimble</span>
+              </a>
             </p>
           </div>
         </div>
