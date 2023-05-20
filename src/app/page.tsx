@@ -349,11 +349,11 @@ export default function Home() {
           <div className="flex flex-col justify-center h-[20%] space-y-3  children:flex children:flex-col children:justify-end children:text-[#fff]  md:flex-row md:space-y-0 md:space-x-[45px]">
             <div className=" service-common projectimg-1 w-[100%] flex flex-col justify-end text-[#fff] h-[600px] md:h-[550px] md:w-1/2 p-[25px]">
               <h1 className="text-[24px] font-bold leading-[29px] text-white lg:font-thin">
-                Mannat
+                Ayesha Mansion
               </h1>
-              <p className="text-[#CECECE] text-[14px] mt-2 lg:text-[16px]">
+              {/* <p className="text-[#CECECE] text-[14px] mt-2 lg:text-[16px]">
                 Lorem ipsum dolor sit amet consectetur adipisicing.
-              </p>
+              </p> */}
 
               <div className="flex space-x-4 children:text-[9px] mt-6 children:border children:border-[#CECECE]  children:py-1 children:px-2 text-[#CECECE]">
                 <p className="lg:text-[13px]">3d Modelling</p>

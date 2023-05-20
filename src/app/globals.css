@@ -59,13 +59,13 @@ text-align: left;
   
 }
 .projectimg-1{ 
-  background:linear-gradient(180deg, rgba(0, 0, 0, 0) 67.51%, #000000 100%), url("./images/project-1.png");
+  background:linear-gradient(180deg, rgba(0, 0, 0, 0) 67.51%, #000000 100%), url("./images/ayesha-project.jpg");
   background-repeat: no-repeat !important;
   background-size: cover !important;
  
 }
 .projectimg-2{
-  background: linear-gradient(180.24deg, rgba(0, 0, 0, 0) 45.32%, #000000 99.79%),url("./images/project-2.png");
+  background: linear-gradient(180.24deg, rgba(0, 0, 0, 0) 45.32%, #000000 99.79%),url("./images/farm-house.png");
   background-repeat: no-repeat !important;
   background-size: cover !important;
 }
