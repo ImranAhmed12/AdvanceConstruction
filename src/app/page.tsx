@@ -407,7 +407,7 @@ export default function Home() {
 
       {/* TESTIMONIAL SECTION */}
 
-      <section className="bg-[#FFF8F2] py-5 w-[97%]" id="testimonial">
+      <section className="bg-[#FFF8F2] py-5 w-[100%]" id="testimonial">
         <div className="container">
           <div className="w-[97%] mx-auto ml-3">
             <h1 className="leading-[44px] text-[36px] font-semibold text-justify lg:font-medium section-heading">
@@ -450,7 +450,7 @@ export default function Home() {
                     </p>
                     <h1 className="text-justify mt-6">Monish Shamsi</h1>
                     <p className="text-[16px] leading-[19px] text-[#AB825D] italic text-justify">
-                      Owner of Hamrard Dawa khana
+                      Owner of Hamdard Dawakhana
                     </p>
                   </div>
                 </div>
@@ -606,7 +606,7 @@ export default function Home() {
               © Copyright 2023 Advance Construction Design
             </p>
             <p className="text-[16px] opacity-60 font-bold">
-              Loved & Crafted Crafted by
+              Loved & Crafted by
               <a href="https://www.softnimble.com" target="_blank">
                 &nbsp; Soft<span className="text-[#06223f]">Nimble</span>
               </a>
