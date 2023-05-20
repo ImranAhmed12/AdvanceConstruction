@@ -506,7 +506,7 @@ export default function Home() {
                       recommend them! They are the best designer we had the
                       pleasure of working with.
                     </p>
-                    <h1 className="text-justify mt-6">Haris Furkan</h1>
+                    <h1 className="text-justify mt-6">Captain Haris Furkan</h1>
                     <p className="text-[16px] leading-[19px] text-[#AB825D] italic text-justify">
                       Pilot - Emirates Dubai
                     </p>
